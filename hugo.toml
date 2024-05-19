@@ -5,3 +5,18 @@ theme = 'holy'
 
 [params] 
   copyright = "© 2024 Helamael"
+
+[taxonomies]
+games = "games"
+
+[menu]
+  [[menu.main]]
+    identifier = "games"
+    name = "games"
+    url = "/games/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about/"
+    weight = 2

@@ -2,6 +2,7 @@
 title = 'Review: Wolfenstein: The New Order'
 date = 2024-05-19T16:04:28-03:00
 draft = false
+games = 'games'
 +++
 <aside>
 <img src="/icons/error_yellow.svg" alt="/icons/error_yellow.svg" width="40px" /> Este posteo puede tener spoilers.

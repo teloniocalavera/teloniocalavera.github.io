@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Helamael Blog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Helamael Blog</description>
+    <title>Games on Helamael Blog</title>
+    <link>http://localhost:1313/games/games/</link>
+    <description>Recent content in Games on Helamael Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 May 2024 16:04:28 -0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/games/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Review: Wolfenstein: The New Order</title>
       <link>http://localhost:1313/posts/wolfno/</link>
       <pubDate>Sun, 19 May 2024 16:04:28 -0300</pubDate>
       <guid>http://localhost:1313/posts/wolfno/</guid>
       <description>En un mundo ficticio que no es el 2024 que vivimos, somos una máquina de matar con sentimientos, con consciencia y con músculos suficientes para sostener dos rifles de asalto y no sentir el recoil. Hay una cierta satisfacción de asesinar nazis ficticios, volarles las partes con una escopeta a 1 metro de distancia. Esto, es Wolfenstein: The New Order.&#xA;El juego en un shooter, claramente somos una maquina de matar no iba a ser de tejer, pero a su vez tiene un buen peso de historia y nos hace pensar algunas decisiones.</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark https://github.</description>
     </item>
   </channel>
 </rss>
