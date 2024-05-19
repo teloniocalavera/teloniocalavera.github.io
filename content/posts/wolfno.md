@@ -1,0 +1,53 @@
++++
+title = 'Wolfno'
+date = 2024-05-19T16:04:28-03:00
+draft = false
++++
+<aside>
+<img src="/icons/error_yellow.svg" alt="/icons/error_yellow.svg" width="40px" /> Este posteo puede tener spoilers.
+
+</aside>
+
+En un mundo ficticio que no es el 2024 que vivimos, somos una máquina de matar con sentimientos, con consciencia y con músculos suficientes para sostener dos rifles de asalto y no sentir el recoil. Hay una cierta satisfacción de asesinar nazis ficticios, volarles las partes con una escopeta a 1 metro de distancia. Esto, es Wolfenstein: The New Order.
+
+El juego en un shooter, claramente somos una maquina de matar no iba a ser de tejer, pero a su vez tiene un buen peso de historia y nos hace pensar algunas decisiones. Voy a escribir de diferentes aspectos, pero me gusta dar mucho énfasis en la *disfrutabilidad* del juego.
+
+### Historia.
+
+Uno de los puntos que me parecen importantes sumar a los shooters, nada de ir matar y ya, y no está tan mal como un buen crítico de guiones diría, de hecho, a mi me parece que la historia funciona bien cuando vemos el todo, y no solo la historia. Y también soy consciente de que tiene varios agujeros, varios WTF, y ese tipo de cosas, pero bueno, como dije, es disfrutable.
+
+El juego comienza en 1946, en un mundo donde los Nazis tienen una tecnología de puta madre. Nos metemos en los bits de William B.J. Blazkowicz, un soldado estadounidense en una misión para matar un par de Nazis y a “Deathshead” (que durante el jeugo pensé que era un apodo normal, pero bueno, Death’s head). La misión fracasa, Deathshead nos hace tomar una decisión que no tiene tanto pesa a la hora de definir, ya que tampoco nos introduce tanto a los personajes, tenemos muy poco contexto para elegir pero lo suficiente para dudar. Luego logramos escapar pero de una manera poco saludable para Blazkowicz, ya que quedamos heridos con un *sharpnel* en el cerebro y en coma por 14 años.
+
+En 1960 despertamos en un hospital mental en Polonia, controlado obviamente por los Nazis porque ganaron la segunda guerra mundial, y con sus terribles avances tecnológicos, eliminaron todo tipo de rebelión o resistencia. Acá conocemos a un personaje importante en la historia, una enfermera llamada Anya. En fib, despertamos del coma y nuestros músculos parece que nunca estuvieron en coma ya que al toque podemos seguir asesinando nazis, bueno, de eso va el juego dije, y a la vez es algo que vemos en Blazkowicz a lo largo de la historia, eso de nunca rendirse, siempre un poquito más. 
+
+Escapamos del hospital, con una cinemática bastante copada de un buen entorno, iluminación y música. Llegamos a la casa de los abuelos de Anya, una granja donde nos enteramos que los Nazis ganaron y forzaron a Estados Unidos a rendirse. En la huída del hospital, capturamos a un Oficial, y lo cagamos bien a trompadas hasta conseguir información de donde tienen prisioneros a la gente de la rebelión: Berlín. Para llegar a la carcel de Berlín, tenemos que viaja en tren, y para ello, tenemos que ir a la estación. En unas escenas copadas, el abuelo nos lleva pero tenemos que pasar ciertos *peajes nazis*, que se paga con sangre nazi. Luego en el tren, el juego nos introduce a dos personajes que vamos a odiar no importa que, son horrendos, bien escritos, y encima en una parte del juego donde se siente tranquilidad, no todo es caos, muerte y destrucción. Éstos dos personajes son Frau Engel, y Bobi Winkle, quienes nos frenan y nos hacen un “test de pureza racial”, el cual fallamos, y antes de morir, nos dicen que es una joda, que personajes de mierda ya. Al rato nos encontramos con Anya y bueno, sexo.
+
+Llegamos a Berlín, Anya nos ayuda a entrar a la prisión y rescatar a otro personaje, que ya conocimos antes y de hecho es a quien “perdonamos” cuando Deathshead nos hizo tomar esa decisión. En mi caso fue a Freu. Éste nos lleva a lo que sería la central de la rebelión, el Kreisau Circle, y que está liderado por Caroline Becker desde una silla de ruedas.
+
+![Kreisu](https://vignette.wikia.nocookie.net/johnnyotgs/images/a/a4/Kreisau_circle.jpg/revision/latest/scale-to-width-down/700?cb=20151123063301)
+
+Acá es donde el juego tiene como un descanso a nivel narrativo y en gameplay, es un ambiente de rebelión sin embargo hacemos misiones secundarias, conocemos a otros personajes miembros de la rebelión, y podemos jugar al easter egg del primer Wolf3d.
+
+Luego de todo ese “descanso” que tenemos, volvemos al ruedo con nuevas misiones, primero atacamos un centro de investigación en Londres llamado London Nautica, del cual robamos documentos secretos y prototipos de unas naves. Estos documentos nos indican que los Nazis están laburando con un concreto superpiola que les permite construir ciudades enteras en semanas, pero a la vez descubrimos que éste material está siendo saboteado. Mientras investigamos con los demás personajes de la Resistencia descubrimos que está siendo manipulado por un tal Set Roth, quien está en un centro de trabajo forzado. Pim pum pam, estamos en el centro de trabajo forzado, conocemos a Set y nos dice que nos va a ayudar si hacemos mierda todo ese lugar, y claro, somos Blazkowicz. Para eso necesitamos una batería para *un control remoto que estaba laburando Set en secreto.* Está en un campo de trabajo forzado, vigilado por maquinaria nazi de última, y logra crear un control remoto, el poder del guión diría yo. Conseguimos lo necesario, pero nos captura Frau. Corte a nos quiere ejecutar, pero con el control remoto zas, lo maneja Set y logra desfigurar a Frau y ahi empieza el quilombo, a hacer mierda todo con un robot.
+
+Nuevamente el Kreisau, ubicamos a la sociedad tecnológica llamada Da'at Yichud, de la cual Set formaba parte. Con esta tecnología logramos interceptar a un alto funcionario Nazi que tiene unos códigos para un misil, peeeeero esos códigos estan en la luna. Si, nos vamos a la luna en una escena corta de presupuesto, podemos caminar po la luna y volver a la gravedad normal. Logramos obtener los códigos pero pero pero, cuando volvemos nos enteramos que Frau se metió a nuestro Kreisau, capturando a Anya y a Set.
+
+Pasan un par de meses hasta que nos vamos a la fortaleza de Deathshead, que supongo que la historia se olvidó de contarnos porque vamos ahí, pero si que usamos el Splindy Torque, que me pareció una maravilla de dispositivo para hacer mierda todo. No nos infiltramos, si que no que caemos con todo el arsenal de balas y armas disponibles para asesinar a todo lo que camine delante nuestro, pero nos atrapa Bobi, el rubio cara de pija mascota de Frau. Éste nos inyecta algo, que nos va a dormir, pero como tenemos un *sharpnel* en el cerebro, no nos hace tanto efecto. Todo esto mientras Frau nos ve remotamente, le comemos el cuello a Bobi y no a besos, para luego clavarle algunas pocas veces la daga en el cerebro, pecho y mandíbula. Nos levantamos como si nada tuviesemos inyectados, el ascesor nos deja juuuuuusto en donde están los rehenes de la resistencia y los ayudamos a escapar, pero había algo que el guión y todo juego nos indicaba, faltaba el jefe final supremo pijudo. Deathshead se mete en un robot, en una batalla que no tiene tanta acción, pero si que nos hace pensar muy apenitas del por que somos una máquina de matar, igual lo queremos matar por sorete hijo de puta. Lo cagamos bien a tiros al robot, y al momento final, a la hora de clavarle la daga al forro, nos muestra una granada que bueno, lo hace pedazos a Deathshead y nos deja a Blazkowicz, hecho pija. Mientras que la resistencia escapa en helicóptero, a la espera de la orden de William para disparar. Damos la orden, estando tirados en el lugar. 
+
+![Poster](https://cdn.mos.cms.futurecdn.net/43ca8347a0a5c5c2638303b0f0269a7a.jpg)
+
+### Personajes.
+
+Yo creo que todos los personajes al menos primarios están bien escritos, pude conectar con todos, fue lo que me mantuvo con ganas de seguir jugando, a pesar de estar atrofiado por los mmo. Frau y Bobi me parecieron muy bien, ya que no son tantas las escenas que compartimos, pero si que nos genera una rabia a la hora de verlos, esa necesidad de querer asesinarlos. Queda viva Frau así que veremos que sucede a medida que voy continuando la saga. De la resistencia si veo como personajes comunes, nada nuevo a nivel resistencia, pero cumplen. Hay personajes cliché como Fergus, Bombate y Max Hass, aportan pero no restan, pero tampoco son recordables. El voice acting si que está muy bien en todos. Deathshead me pareció también muy bien escrito, con la única motivación de investigar y experimental pero creyendose superior moralmente solo porque no genera caos y destrucción. A que si.
+
+### Lo que hizo bien y lo que hizo mal.
+
+Acá voy a tirar un disclaimer importantísimo, no soy un hábil jugador, soy mas bien un atrofiado de los mmo con ganas de jugar cosas que me den una historia copada y un gameplay amigable. 
+
+Pero debo decir que el Wolfenstein: The New Order no tiene nada nuevo mas que un shooter, con algunos, para no decir muy pocos, elementos RPG como perks. Mantiene eso del Wolf3d.exe que teníamos de chicos, de recolectar elementos de oro y algo que si me pareció copado es poder ver el concept art de los lugares a medida que vas avanzando en la historia. Los perks son normalitos, no cambian para nada la experiencia de juego y son un motivador para aquellos que quieren si o si compeltar todo al 100%, por mi parte no ya que me da igual. Las armas se sentían bien, muy macho tiene eso de sostener dos rifles de asalto, pero está ok si queres ser un kamikazee.
+
+Lo que no me gustó fueron las poquitas misiones secundarias, no aporta nada, solo perder el tiempo o bien, estirar un poco el juego. No está mal si queres hacer un parate de tanto matar, pero sos una máquina de asesinar nazis, no me pongas a buscar los juguetes de Max porque quiero matar. Los mapas los noté muy bien, bastante variedad aunque algo limitada a la hora de explorar. Por ejemplo en la luna, yo dije uy que bueno voy a ver cadaveres volanndo al matarlos, pero no, se ve que por falta de presupuesto, o ganas, hicieron apenas unos pasos en la superficie de la luna.
+
+### Conclusión.
+
+Es un buen juego, sólido shooter y amigable, dificultades para todos y lo justo y necesario para accesibilidad, nada de hacer juegos para gente con ansiedad. Si te interesan los shooters, dale una oportunidad, si queres una historia sin sangre, mejor abrí el Stardew Valley.
