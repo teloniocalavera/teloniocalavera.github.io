@@ -6,7 +6,14 @@
     <description>Recent content in Posts on Helamael Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 16:04:28 -0300</lastBuildDate>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wolfno</title>
+      <link>https://example.org/posts/wolfno/</link>
+      <pubDate>Sun, 19 May 2024 16:04:28 -0300</pubDate>
+      <guid>https://example.org/posts/wolfno/</guid>
+      <description>En un mundo ficticio que no es el 2024 que vivimos, somos una máquina de matar con sentimientos, con consciencia y con músculos suficientes para sostener dos rifles de asalto y no sentir el recoil. Hay una cierta satisfacción de asesinar nazis ficticios, volarles las partes con una escopeta a 1 metro de distancia. Esto, es Wolfenstein: The New Order.&#xA;El juego en un shooter, claramente somos una maquina de matar no iba a ser de tejer, pero a su vez tiene un buen peso de historia y nos hace pensar algunas decisiones.</description>
+    </item>
   </channel>
 </rss>
