@@ -2,3 +2,6 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Helamael Blog'
 theme = 'holy'
+
+[params] 
+  copyright = "© 2024 Helamael"
