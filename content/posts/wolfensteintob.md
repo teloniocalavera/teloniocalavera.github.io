@@ -1,5 +1,5 @@
 +++
-title = 'Wolfensteintob'
+title = 'Wolfenstein: The Old Blood - Review'
 date = 2024-06-02T10:22:20-03:00
 draft = false
 +++
