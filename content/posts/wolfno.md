@@ -1,5 +1,5 @@
 +++
-title = 'Review: Wolfenstein: The New Order'
+title = 'Wolfenstein: The New Order - Review'
 date = 2024-05-19T16:04:28-03:00
 draft = false
 games = 'games'
