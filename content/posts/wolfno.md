@@ -4,10 +4,6 @@ date = 2024-05-19T16:04:28-03:00
 draft = false
 games = 'games'
 +++
-<aside>
-<img src="/icons/error_yellow.svg" alt="/icons/error_yellow.svg" width="40px" /> Este posteo puede tener spoilers.
-
-</aside>
 
 En un mundo ficticio que no es el 2024 que vivimos, somos una máquina de matar con sentimientos, con consciencia y con músculos suficientes para sostener un rifle de asalto en cada mano y no sentir el recoil. Además, hay una cierta satisfacción de asesinar nazis ficticios, volarles los sesos con una escopeta a 1 metro de distancia. Esto, es Wolfenstein: The New Order.
 

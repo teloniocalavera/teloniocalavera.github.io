@@ -7,13 +7,13 @@ Perdonenme los fundamentalistas de las precuelas, **pero así es como se hace un
 
 ### La historia.
 
-La historia, **uno de los dos elementos principales por los que decidí jugar esta saga**, me dejó manija el primero y continué como para ver de que es capaz. Está super clara la historia desde que iniciamos el juego, ya sabemos con que personaje jugamos y por eso sabemos que todo es caos y destrucción. La historia está divida en 2 partes, de 8 episodios cada uno.
+La historia es **uno de los dos elementos principales por los que decidí jugar esta saga**, jugué el primero y me dejó manija como para ver de que es capaz. En esta entrega está super clara la historia desde que iniciamos el juego, ya sabemos con que personaje jugamos y por eso sabemos que todo será caos y destrucción. La historia está divida en 2 partes, de 4 episodios cada uno.
 
 ![Un cutucuchillo en la jeta](https://www.wingamestore.com/images_screenshots/wolfenstein-the-old-blood-29905.jpg)
 
 ### Parte 1.
 
-La historia del juego comienza por el cierre de la Segunda Guerra mundial, cuando nos mandan a infiltrarnos en el *fucking* **Castillo Wolfenstein** y robar un carpeta que contiene la **ubicación del putísimo Deathshead** (spoilers del primer juego, si no lo jugaron). Ésta carpeta le pertenece a Helga von Schabbs. El plan va relativamente bien hasta que se va casi-todo a la chota y nos captura Rudi Jäger, quien es el segundo de Helga.
+El juego comienza allá por el cierre de la Segunda Guerra Mundial, cuando nos mandan a infiltrarnos en el *fucking* **Castillo Wolfenstein** para robar un carpeta que contiene la **ubicación del putísimo Deathshead** (spoilers del primer juego, si no lo jugaron). Ésta carpeta le pertenece a Helga von Schabbs. El plan va relativamente bien hasta que se va casi-todo a la chota y nos captura Rudi Jäger, quien es el segundo de Helga.
 
 Nos mandan a la cárcel, la cual está rodeada e *infestada* de Super Soldiers, como los del primer juego pero claro, en otra época. Acá comienza una serie de **infiltraciones y sigilo para escapar**. Durante nuesta clásica escapada, *a los golpes y sangre*, descubrimos que Helga está buscando una cripta que contiene **un artefacto que está asociado al King Otto, el Emperador Romano.**
 
@@ -49,7 +49,7 @@ Los jefes me paserieron bien, **ni fu ni fa**, lo normal según el presupuesto. 
 
 ### Elementos que me llamaron la atención.
 
-No es un Wolfenstein sin encontrar objetos de valor, pero no se si por presupuesto o que, solo dejaron oro. Lo que me llevó a pensar, **¿quien vergas dejaría oro tirado en cualquier parte?.** Yo creo, que se podía resolver de otra manera eso.
+No es un Wolfenstein si no hay objetos de valor, pero no se si por presupuesto o que, solo dejaron oro en este. Lo que me llevó a pensar, **¿quien vergas dejaría oro tirado en cualquier parte?.** Yo creo, que se podía resolver de otra manera, tal vez poner cajas de cargamento por todos lados, las cuales al romper tengan oro, o llaves a cajas con oro, algo más *realista*.
 
 Los perks, como el primer juego **no tienen ningún peso si los obtenemos**, de hecho ni me di cuenta cuales obtuve y cuales no, tampoco soy un *completionist*.
 
@@ -61,7 +61,7 @@ Todas las cinemáticas son en primera persona, no como el primer juego donde vem
 
 Más tiros, más sangre y nazis cayendo del cielo prendidos fuego. ¿Qué más querés?
 
-![Rudi](https://static.wikia.nocookie.net/wolfenstein/images/c/c7/Jager-2.jpg/revision/latest?cb=20180120032827)
+![Rudi](https://vignette.wikia.nocookie.net/wolfenstein/images/c/c7/Jager-2.jpg)
 
 ### Siguiente paso:
 
