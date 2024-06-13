@@ -6,21 +6,35 @@
     <description>Recent content on Helamael Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 May 2024 16:04:28 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 22:56:43 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Review: Wolfenstein: The New Order</title>
+      <title>Guild Wars 2: Secrets of the Obscure - Review</title>
+      <link>http://localhost:1313/posts/soto/</link>
+      <pubDate>Wed, 12 Jun 2024 22:56:43 -0300</pubDate>
+      <guid>http://localhost:1313/posts/soto/</guid>
+      <description>Hace poco terminé la historia de la nueva última expasión jugable del Guild Wars 2: Secrets of the Obscure, y al terminarla me sentí raro, no me gustó pero me copó algunas cosas, no se si odiarla o si quererla, entonces para despejar un poco esas duras decidí escribir un breve recorrido por la historia.&#xA;But first… un poquito de contexto. Soy jugador del Guild Wars 2 desde el 2015, justo cuando se hizo Free 2 Play y mi nivel de rata se puso feliz, al día de hoy serían algo así como 9 años de vicio.</description>
+    </item>
+    <item>
+      <title>Wolfenstein: The Old Blood - Review</title>
+      <link>http://localhost:1313/posts/wolfensteintob/</link>
+      <pubDate>Sun, 02 Jun 2024 10:22:20 -0300</pubDate>
+      <guid>http://localhost:1313/posts/wolfensteintob/</guid>
+      <description>Perdonenme los fundamentalistas de las precuelas, pero así es como se hace una verdadera precuela. Lo terminé hace nada, y eso que me llevó mas tiempo a pesar de ser un juego mucho mas corto que el primero, aunque sin esas misiones raras de ser el babysitter de alguien.&#xA;La historia. La historia es uno de los dos elementos principales por los que decidí jugar esta saga, jugué el primero y me dejó manija como para ver de que es capaz.</description>
+    </item>
+    <item>
+      <title>Wolfenstein: The New Order - Review</title>
       <link>http://localhost:1313/posts/wolfno/</link>
       <pubDate>Sun, 19 May 2024 16:04:28 -0300</pubDate>
       <guid>http://localhost:1313/posts/wolfno/</guid>
-      <description>En un mundo ficticio que no es el 2024 que vivimos, somos una máquina de matar con sentimientos, con consciencia y con músculos suficientes para sostener dos rifles de asalto y no sentir el recoil. Hay una cierta satisfacción de asesinar nazis ficticios, volarles las partes con una escopeta a 1 metro de distancia. Esto, es Wolfenstein: The New Order.&#xA;El juego en un shooter, claramente somos una maquina de matar no iba a ser de tejer, pero a su vez tiene un buen peso de historia y nos hace pensar algunas decisiones.</description>
+      <description>En un mundo ficticio que no es el 2024 que vivimos, somos una máquina de matar con sentimientos, con consciencia y con músculos suficientes para sostener un rifle de asalto en cada mano y no sentir el recoil. Además, hay una cierta satisfacción de asesinar nazis ficticios, volarles los sesos con una escopeta a 1 metro de distancia. Esto, es Wolfenstein: The New Order.&#xA;El juego en un shooter, claramente somos la encarnación de una semiautomática, no iba a ser de tejer claro, pero a su vez tiene un buen peso de historia y nos hace pensar en algunas situaciones.</description>
     </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>escribiendo&amp;hellip;</description>
+      <description>Soy un random, con un gran fanatismo por los videojuegos, el diseño, y últimamente el mundo de la ciberseguridad.&#xA;Los videojuegos vienen desde que era chico, o soy, o fui, no se. Nunca tuve una consola como el Family, o Atari, o de esas que todos tuvieron, pero si siempre tuve un viejo con una PC en casa. Me pasaba horas jugando a todo lo que había para jugar, tengo recuerdos del Redneck Rampage los días de lluvia, o el Jazz Jack Rabbit con mi hermano, entre otros.</description>
     </item>
   </channel>
 </rss>
