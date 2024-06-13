@@ -4,7 +4,7 @@ date = 2024-06-12T22:56:43-03:00
 draft = false
 +++
 
-Hace poco terminé la historia de la última expasión jugable del Guild Wars 2: Secrets of the Obscure y me sentí raro, no me gustó a nivel general pero sí me coparon algunas otras cosas, no se si odiarla o si quererla, decidí escribir un breve recorrido por la historia y un pequeño análisis. Spoiler: me terminó gustando más la historia completa al escribirla y leerla más que jugarla.
+Hace poco terminé la historia de la última expansión jugable de Guild Wars 2: **Secrets of the Obscure** y me sentí extraño, no me gustó en términos generales, pero sí me gustaron algunas otras cosas. En definitiva, no sé si odiarla o quererla, es por eso que decidí escribir un breve recorrido por la historia y un pequeño análisis. Spoiler: Terminé disfrutando más la historia completa al escribirla que al jugarla.
 
 ### But first… un poquito de contexto.
 
