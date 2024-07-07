@@ -1,10 +1,13 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Helamael Blog'
-theme = 'holy'
+theme = 'archie'
 
 [params] 
   copyright = "© 2024 Helamael"
+  mode = "auto"
+  useCDN=false
+  mathjax = true
 
 [taxonomies]
 games = "games"
