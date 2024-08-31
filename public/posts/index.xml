@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Helamael Blog</title>
+    <title>Posts on El Blog de las Cosas Rancias</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Helamael Blog</description>
+    <description>Recent content in Posts on El Blog de las Cosas Rancias</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jun 2024 22:56:43 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 21:53:02 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lanzamiento de Guild Wars 2: Janthir Wilds</title>
+      <link>http://localhost:1313/posts/janthirwilds/</link>
+      <pubDate>Fri, 30 Aug 2024 21:53:02 -0300</pubDate>
+      <guid>http://localhost:1313/posts/janthirwilds/</guid>
+      <description>El martes 20 de Agosto se lanzó la quinta expansión del Guild Wars 2, y como gran fan de la saga voy a dar mis opinión. Ésta vez no voy a hablar tanto de la historia, o al menos no va a ser el enfoque principal, aunque es altamente probable que se me escapen algunos spoilers.&#xA;Se abre el telón. Janthir Wilds comienza bastante simple, una reunión con algunos personajes que hemos conocido en la anterior expansión, y otros que llevan con nosotros casi 12 años.</description>
+    </item>
     <item>
       <title>Guild Wars 2: Secrets of the Obscure - No-tan-breve análisis</title>
       <link>http://localhost:1313/posts/soto/</link>

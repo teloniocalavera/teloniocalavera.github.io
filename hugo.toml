@@ -1,16 +1,13 @@
 baseURL = 'https://valchales.github.io/'
 languageCode = 'en-us'
-title = 'Valchales Cosas'
-theme = 'archie'
+title = 'El Blog de las Cosas Rancias'
+theme = 'holy'
 
 [params] 
   copyright = "© 2024 Valchales"
   mode = "auto"
   useCDN=false
   mathjax = true
-
-[taxonomies]
-games = "games"
 
 [menu]
   [[menu.main]]

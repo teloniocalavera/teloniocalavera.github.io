@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Helamael Blog</title>
+    <title>El Blog de las Cosas Rancias</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Helamael Blog</description>
+    <description>Recent content on El Blog de las Cosas Rancias</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jun 2024 22:56:43 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 21:53:02 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lanzamiento de Guild Wars 2: Janthir Wilds</title>
+      <link>http://localhost:1313/posts/janthirwilds/</link>
+      <pubDate>Fri, 30 Aug 2024 21:53:02 -0300</pubDate>
+      <guid>http://localhost:1313/posts/janthirwilds/</guid>
+      <description>El pasado martes 20 de Agosto se lanzó la quinta expansión del Guild Wars 2 llamda Janthir Wilds, y como gran fan de la saga voy a dar mi opinión, a pesar de que nadie me la pidió. Ésta vez no voy a hablar tanto de la historia, o al menos no va a ser el enfoque principal, aunque debo avisar que es altamente probable que se me escapen algunos spoilers.</description>
+    </item>
     <item>
       <title>Guild Wars 2: Secrets of the Obscure - No-tan-breve análisis</title>
       <link>http://localhost:1313/posts/soto/</link>
@@ -34,7 +41,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Soy un random, con un gran fanatismo por los videojuegos, el diseño, y últimamente el mundo de la ciberseguridad.&#xA;Los videojuegos vienen desde que era chico, o soy, o fui, no se. Nunca tuve una consola como el Family, o Atari, o de esas que todos tuvieron, pero si siempre tuve un viejo con una PC en casa. Me pasaba horas jugando a todo lo que había para jugar, tengo recuerdos del Redneck Rampage los días de lluvia, o el Jazz Jack Rabbit con mi hermano, entre otros.</description>
+      <description>Soy un random, con un gran fanatismo por los videojuegos y el diseño.&#xA;Los videojuegos vienen desde que era chico, o soy, o fui, no se. Nunca tuve una consola como el Family, o Atari, o de esas que todos tuvieron, pero si siempre tuve un viejo con una PC en casa. Me pasaba horas jugando a todo lo que había para jugar, tengo recuerdos del Redneck Rampage los días de lluvia, o el Jazz Jack Rabbit con mi hermano, entre otros.</description>
     </item>
   </channel>
 </rss>

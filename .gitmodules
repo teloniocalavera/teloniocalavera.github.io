@@ -5,3 +5,12 @@
 [submodule "themes/holy"]
 	path = themes/holy
 	url = https://github.com/serkodev/holy
+[submodule "themes/hugo-book"]
+	path = themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "smol"]
+	path = smol
+	url = https://github.com/colorchestra/smol
