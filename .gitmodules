@@ -14,3 +14,6 @@
 [submodule "smol"]
 	path = smol
 	url = https://github.com/colorchestra/smol
+[submodule "hugo-blog-awesome"]
+	path = hugo-blog-awesome
+	url = https://github.com/hugo-sid/hugo-blog-awesome
