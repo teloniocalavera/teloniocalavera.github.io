@@ -4,7 +4,7 @@ date = 2024-08-30T21:53:02-03:00
 draft = false
 +++
 
-El pasado martes 20 de Agosto se lanzó la quinta expansión del Guild Wars 2 llamda Janthir Wilds, y como gran fan de la saga voy a dar mi opinión, a pesar de que nadie me la pidió. Ésta vez no voy a hablar tanto de la historia, o al menos no va a ser el enfoque principal, aunque debo avisar que es *altamente probable* que se me escapen algunos spoilers.
+El pasado martes 20 de Agosto se lanzó la quinta expansión del Guild Wars 2 llamada Janthir Wilds, y como gran fan de la saga voy a dar mi opinión, a pesar de que nadie me la pidió. Ésta vez no voy a hablar tanto de la historia, o al menos no va a ser el enfoque principal, aunque debo avisar que es *altamente probable* que se me escapen algunos spoilers.
 
 ### Se abre el telón.
 

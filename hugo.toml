@@ -8,8 +8,7 @@ theme = 'hugo-blog-awesome'
   useCDN= "false"
   mathjax = "true"
   defaultColor = "auto"
-  description = 'Blog'
-  toc = true
+  description = 'El Blog de Valchales, esto es un preview supongo.'
   goToTop = true
   rssFeedDescription = "full"
 
