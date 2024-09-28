@@ -4,9 +4,9 @@ description = "El famoso about"
 date = "2024-05-19"
 +++
 
-Soy un random, con un gran fanatismo por los videojuegos y el diseño.
+Soy una persona x con un gran fanatismo por los videojuegos, el diseño y últimamente algo de escritura, o narrativa.
 
-Los videojuegos vienen desde que era chico, o soy, o fui, no se. Nunca tuve una consola como el Family, o Atari, o de esas que todos tuvieron, pero si siempre tuve un viejo con una PC en casa. Me pasaba horas jugando a todo lo que había para jugar, tengo recuerdos del Redneck Rampage los días de lluvia, o el Jazz Jack Rabbit con mi hermano, entre otros. Ah y ahora tengo una Switch que se siente de 10 jugar en la TV, todo lo que un +30 quiere.
+Los videojuegos vienen desde que era chico, o soy, o fui, no se. Nunca tuve una consola como el Family o la Atari, tampoco tuve de esas que todos tenían en su momento, pero si siempre tuve un padre con PC en casa. Me pasaba horas jugando a todo lo quese podía jugar. Tengo recuerdos del Redneck Rampage los días de lluvia, o el Jazz Jack Rabbit con mi hermano, puteadas por el Star Wars Pod Racing, o críticas a mi primo por la elección de su auto en el Need For Speed Special Edition 2. Ahora con 30+, tengo una Switch y permítanme decirles que se siente de 10 jugar tirado en el sillón.
 
 El diseño viene por que soy diseñador, fin.
-Entonces? Soy uno que escribe cada tanto solo por el hecho de escribir.
+**TLDR?** Soy uno que escribe cada tanto solo por el hecho de escribir.
