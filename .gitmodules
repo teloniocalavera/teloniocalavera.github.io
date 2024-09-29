@@ -17,3 +17,15 @@
 [submodule "hugo-blog-awesome"]
 	path = hugo-blog-awesome
 	url = https://github.com/hugo-sid/hugo-blog-awesome
+[submodule "themes/nostyleplease"]
+	path = themes/nostyleplease
+	url = https://github.com/hanwenguo/hugo-theme-nostyleplease
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod
+[submodule "themes/anubis2"]
+	path = themes/anubis2
+	url = https://github.com/Junyi-99/hugo-theme-anubis2
+[submodule "themes/lowkey"]
+	path = themes/lowkey
+	url = https://github.com/nixentric/Lowkey-Hugo-Theme

@@ -1,0 +1,56 @@
++++
+title = 'Mi experienca con el Final Fantasy XIV que nadie pidió'
+date = 2024-09-29T09:06:13-03:00
+draft = false
++++
+
+### Disclaimer: Éste posteo debería estar antes que el anterior, pero me olvidé.
+
+Todo empezó un día cuando decidí hacer una pausa del Guild Wars 2, antes de que salga su próxima expansión, y como fan de los MMO pensé en **probar el FFXIV (o Final Fantasy Equis I Ve para los normales)**, el cual ofrece una prueba gratuita hasta el nivel 70, para luego *pasar por caja todos los meses, sospechosamente igual como el modelo de suscripción del WoW*. No es algo que no pueda permitirme, la verdad es un precio acorde por la diversión que podría brindarme, pero de momento no voy a pagar y voy a hacer uso de mi derecho a prueba gratuita y contar lo que pienso de lo poco que jugué, apenas llegue al nivel 30 y **aproximadamente 60 horas de juego.**
+
+Al finalizar la instalación se abrió un **launcher bastante anticuado**, pareciera una webapp con demasiada información, podría decirse que es una pesadilla de información maldita sea. No puedo dejar de ver la cantidad de noticias, items, links, colores y cosas que tiene ese launcher, con solo un espacio chiquito para ingresar el usuario y la contraseña, si te equivocas al ingresar en alguno de los campos, **recarga todo el launcher**.
+
+Una ves ingresados, aparece el juego a todo culo, con una pantalla anticuada, desconozco si es algo obligatorio de los juegos, pero si ingresé mi usuario y contraseña antes de abrir el juego es porque quiero jugar, pero de todas maneras el juego me da una pantalla con la opción de “Start Game”. Pasamos a una pantalla que me decía algo de dataservers, explican en pocas palabras que es tu home, tu servidor madre, pero no mucho más que ello: **No se que actividades puedo hacer en mi home, o que carajo significa mi home**. Podes elegir NA, EU, ASIA y uno más que no me acuerdo probablemente sea SEA. Investigando en Internet, es el server claramente, pero que únicamente puedo hacer actividades con gente de mi mismo Data Center, es decir me voy a cruzar solo gente de mi server, aunque es cierto que existe la forma de **ir de visita a otro Data Server para jugar con tu amigo**.
+
+### **La creación de personajes mas japonesa que vi en mi vida.**
+
+Bueno tampoco es que vi tantas creaciones de personajes, nos permite seleccionar entre varias razas: los humanos, los elfos, los enanos medios polémicos, los cat-boys, los dragon-boys, los hulks, humanos con partes de conejo, y humanos furros, cada uno con su versión masculina y femenina, o como últimamente se los llama en los juegos, **Cuerpo A y Cuerpo B**. Todas esas razas tienen distintos nombres, no me los acuerdo. Cada raza tiene **apenas tienen apenas un lore de 5 renglones y saludo**s. Yo elegí los Au’Ra porque eran algo así como “los hijos de los dragones”, andá a saber quien se culeó a un dragón en primer lugar, *y eso me resultó atractivo*. Aunque mas adelanrte me pasé a humano porque mi personaje parecia una rata, si, la cola de dragón de mi personaje junto con mi personaje eran minúsculos, eran ratas literal. Pasamos a la personalización del personaje y es **oof**, la experiencia de usuario es lejos de ser intuitiva, hay opciones de personalización a la izquierda mientras que el editor a la derecha, donde podemos aceptar para ir a la siguiente sección o literal hacer click en la siguiente sección. No hay muchas opciones en el editor, solo 4 caras, 20 peinados que son 19 exhuberantes y 1 decente, algunos colores de piel, algunas cejas, etc. Al completarlo nos dice que ingresemos el cumpleaños en un calendario raro, yo elegí el sexto día de la sexta luna umbral, y después nos pide elegir una adoración, ni me acuerdo que elegí tampoco se que hace eso más que RP. Y finalmente pasamos a lo que me interesa, las clases.
+
+### **Las jobs son mejores de lo que me imaginaba.**
+
+El juego **cuenta con el sistema de trinidad**, es decir tanques, curadores y *hacedores de daño* o mayormente conocidos como DPS. Los tanques que te permite elegir para empezar son Gladiator y Marauder, mientras que Healer te permite elegir solo Conjurer, y si, **¿quién pijas va a empezar el juego como un healer?**. Y de DPS tenemos Pugilist, Archer, Thaumaturge, Lancer, y Arcanist. No se si me olvido de alguno, pero me parecieron bien diseñadas, a pesar de tener los típicos arquetipos, le dieron una vuelta de rosca en algunos conceptos. **Yo empecé con un Conjurer.**
+
+Todos esos jobs, pueden **evolucionar en el nivel 30 como un pokemón**, por ejemplo el Gladiator pasa a ser un Paladin, y Marauder a Warrior. Acá se pone interesante porque se nota que le pusieron onda a pensar las clases. El más raro es el Archer, que pasa a ser un Bard, medio que no me gustó un carajo porque para mi un bardo no es lo mismo que un arquero, *pero como el arquero es un don nadie que tira palitos puntiagudos*, le tuvieron que poner un poco de *onda*. El arcanist también está copado por que al nivel 30 lo podes evolucionar a Summoner (DPS) o a Scholar (Healer), haces 2x1 si lo subís. **¡Puta que ofertón!**.
+
+Al investigar, vi que hay otros jobs super interesantes, y no fue hasta el nivel 10 que me enteré que
+podías cambiar **entre ellos así gratis**, solo cambiando el gear. Ahí me interesó un poco más el juego, ya que **soy una máquina de cambiar peronsajes, ninguno me gusta y todos me gustan al mismo tiempo, algo así como Everything Everywhere All Classes at all times**. Subí al 10 mi conjurer a base de presionar 1 hasta el hartasgo, para pasarme o aprender el job de Archer, el cual subí al 20 y luego me pasé a Thaumaturge, aunque me interesó un Rogue un momento. Mi objetivo era tener un **Machinist**, que se ve super copado y es algo que me gusta generalmente, Ranged DPS con maquinitas y pistolitas pew pew y por supuesto **¡FLASHY EFFECTS!**. *Eso me gusta en un mundo super fantástico donde hay dragones y vos ahi tirando balines de colores*. También me interesó el Dark Knight, el típico guerrero edgy con cara de malo y emo, tiene habilidades flashy bien diseñadas que sobresalen de la pantalla y es todo negro y rojo, como si fuese una fase edgy. Y por último, un healer que es el Astrologian, porque me encanta toda esa mierda como concepto en juego.
+
+### **La interfaz de usuario, de japón hacia el mundo.**
+
+No voy a entrar tanto detalle, solo empezar diciendo que **los japoneses tienen otro sentido del UX, el cual está bien ya es para ellos, no es para el resto del mundo**. Si bien la interfaz del juego en su diseño no es mala, es algo confusa para nuevos jugadores. Agradezco que tenga su propio "tutorial" para usar la interfaz, y **eso ya nos dice que no va a ser tarea fácil**. En mi caso, siendo diseñador de interfaces de usuario, lo vi demasiado cargado, *o carga cognitiva*, es decir muchas opciones dentro de ventanas que a la vez tienen tabs que a la vez tienen botones que abren popups. Es como si tuviese que tomar una decisión importante cada vez que quiero acceder a algún menú específico. Me pasó por ejemplo de querer cambiar un casco, entré al inventario y no vi ningún casco, tampoco vi ningúna pieza equipable, solo items usables. Me asusté y pensé, bueno debe estar en otro lado, fui a la ventana Character, donde veo mi gear equipado, y al seleccionar el casco equipado me abre un inventario de gear aparte, como lejos del inventario tradicional. Resulta ser que tenemos dos inventarios, **un armory inventory para el armory** y **todo lo demás inventory para, todo lo demás.** Eso se llama clutter, entiendo que el inventario después de 2 horas se vuelve mierda, pero prefiero tener mi gear en un único lugar de fácil acceso. Otro ejemplo es el "Duty Finder", se accede con la U y no entendí una goma. Solo tenía disponible una dungeon llamada "levelling". Tenía muchas opciones que no me permitía hacer click, pero me daba un tooltip de que Dungeon era.
+
+### **Lo que más me gustó del juego hasta ahora.**
+
+Esa libertad de cambiar de job, cambias, subis, y ya, no tenes que rehacer toda la historia. También me gustaron los eventos llamados FATE, que son tareas randoms en algunas zonas donde subis de nivel bastante rápido. Para luego enterarte que son todas las mismas con diferentes enemigos, un embole al final del día.
+
+A su vez me gustó mucho el diseño de los jobs a nivel general. Hay un buen balance de magos, tanques, curadores y guerreros, no todo es magia en la vida. El diseño de armaduras se ven increíbles, entiendo que FF tiene una estética marcada por generalidades y algunos elementos extraídos del mismísimo mundo pero me gustó quedarme en algunas zonas tipo hub quieto mirando como pasa la gente y examinando sus… armaduras.
+
+### **Lo que menos me gustó**
+
+Esa libertad de cambiar de job. Mientras en el punto anterior dije que me gusta, siento que no está del todo bien implementado. Sin ser diseñador de videojuegos, creo que es contraproducente tener que volver a subir tu personaje en otra profesión, siento que el progreso de personaje se pierde. Entiendo que es lo mismo que subir un nuevo personaje como en otros juegos, pero eso me hace sentir mejor, ya que ese personaje sube su profesión y ahí queda, creando así una conexión con el personaje. Además, en el FFXIV, venís haciendo mapas o contenido de nivel alto, y tenes que volver a matar ovejitas para subir tu otra clase, es como... dale campeón acabás de matar un dragón ¿y ahora tengo que matar ovejitas? Mi única forma de defenderlo es pensando como diseñador de producto, todas las actividades deben ser invertidas con tiempo, pues el tiempo es lo que debes comprar para poder jugar en el Final Fantasy.
+
+Ah y ahí va otro punto que no me convence, la sub. No me jode pagar, sus servidores están bien mantenidos, tienen días de mantenimiento definido que no podes jugar pero tampoco quejarte porque aceptaste los términos y condiciones, no vi bots pero estoy 101% seguro que tiene bots, pero me jode que a la vez tenga una tienda con conveniencia que está en constante crecimiento, sin entrar en detalles si es Pay 2 Win o no, la tienda ofrece servicios o cosméticos, siendo éstos opcionales, pero recuerden muchachos, si una montura está en la tienda es porque pudo ser agregada como recompensa de alguna misión o achievement, ahora tu misión es usar la tarjeta de crédito. También me gustó (sarcásticamente) que la tienda tenga “recomendados” para mí, flaco acabo de empezar tu juego y no me conoces… ¿qué me vas a recomendar? Y zas, ahí nomás te recomiendan TODAS las expansiones, una figura de un personaje que no tengo ni la más puta idea, un atuendo de ¿policía?, y un emote de “comer pizza”. **¿Cómo se supone que vas a salvar al mundo de una amenaza invisible si no comés una pizza?**
+
+### Y ahora, el momento que todos esperaban, ¡imágenes!
+
+![](https://i.postimg.cc/WpBDNgdw/ffxiv-dx11-rm5s-Ga88c0.jpg)La reina.
+
+![](https://i.postimg.cc/Zq5n7LQ4/ffxiv-dx11-7-KBUxs-KSg9.jpg)Mi primera chamba.
+
+![](https://i.postimg.cc/j5GjjYSS/ffxiv-dx11-ATXC2-NPpz6.jpg)De la alta sociedad.
+
+![](https://i.postimg.cc/zJzyGJG6/ffxiv-dx11-Eia-XICf-F49.jpg)Así no se sostiene un arco pero como no soy arquero no opino.
+
+![](https://i.postimg.cc/T3YTf3Jc/ffxiv-dx11-JOq-Hi-Yz2-S0.jpg)Buen balance de pose y hacha.
+
+![](https://i.postimg.cc/Hsmpv2JR/ffxiv-dx11-z-EIDEANTh-E.jpg)Sin palabras.
