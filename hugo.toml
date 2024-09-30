@@ -1,5 +1,5 @@
 baseURL = 'https://valchales.github.io/'
-languageCode = 'en-us'
+languageCode = 'es-ar'
 title = 'Valchales'
 theme = 'hugo-blog-awesome'
 
@@ -8,18 +8,18 @@ theme = 'hugo-blog-awesome'
   useCDN= "false"
   mathjax = "true"
   defaultColor = "auto"
-  description = 'El Blog de Valchales, esto es un preview supongo.'
+  description = 'Valchales Blog, viejo.'
   goToTop = true
   rssFeedDescription = "full"
 
 [menu]
   [[menu.main]]
-    identifier = "posts"
+    pageRef = "posts"
     name = "posts"
-    url = "/"
+    url = "/posts"
     weight = 1
   [[menu.main]]
-    identifier = "about"
+    pageRef = "about"
     name = "about"
     url = "/about/"
     weight = 2
