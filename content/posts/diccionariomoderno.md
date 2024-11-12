@@ -1,5 +1,5 @@
 +++
-title = 'Diccionariomoderno'
+title = 'Diccionario de Instagram moderno para personas normales'
 date = 2024-11-11T23:33:55-03:00
 draft = false
 +++
