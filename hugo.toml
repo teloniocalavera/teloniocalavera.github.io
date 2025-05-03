@@ -1,10 +1,10 @@
-baseURL = 'https://valchales.github.io/'
+baseURL = 'https://teloniocalavera.github.io/'
 languageCode = 'es-ar'
-title = 'Valchales'
+title = 'Telonio Calavera'
 theme = 'hugo-blog-awesome'
 
 [params] 
-  copyright = "© 2024 Valchales"
+  copyright = "© 2024 Telonio Calavera"
   useCDN= "false"
   mathjax = "true"
   defaultColor = "auto"
