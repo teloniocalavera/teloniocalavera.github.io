@@ -1,6 +1,6 @@
 +++
 title = 'Que significa que usemos ChatGPT como locos'
-date = 2025-05-006T09:50:39-03:00
+date = 2025-05-06T09:50:39-03:00
 draft = false
 +++
 
